@@ -1,5 +1,5 @@
 # Millennium-Matrix
-integrantes:
+Integrantes:
 
 Juan González,
 Edward González,
