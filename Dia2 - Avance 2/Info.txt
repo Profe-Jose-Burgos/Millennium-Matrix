@@ -1,0 +1,5 @@
+Este es el código final, pero el día de mañana estaremos afinando detalles como, control de excepciones en parte que lo requieran.
+
+además existe otra alternativa en una de la opciones que se llama, "Opción 3"
+
+Solo lo estaremos subiendo como posible recurso para el día de mañana
